@@ -1,0 +1,125 @@
+/* header start */
+.box1{
+    height:60px;
+    width:10%;
+    background-color:#2C3E50;
+    float: left;
+    color: white;
+    text-align: center;
+    border: 5px solid  #0e161e;
+    box-sizing: border-box;
+    margin-right: 1px;
+    padding-top: 10px;
+}
+.box2{
+    height:60px;
+    width:69.80%;
+    background-color: #2C3E50;
+    float: left;
+    color: white;
+    text-align: center;
+    border: 5px solid  #0e161e;
+    box-sizing: border-box;
+    margin-right: 1px;
+    padding-top: 10px;
+}
+.box3{
+    height:60px;
+    width:20%;
+    background-color: #2C3E50;
+    float: right;
+    color: white;
+    text-align: center;
+    border: 5px solid  #0e161e;
+    box-sizing: border-box;
+    padding-top: 10px;
+}
+/* header end */
+
+/* sunday starts */
+.box4,.box10,.box16,.box22,.box28,.box34,.box40{
+    height:73px;
+    width:14.4%;
+    background-color: rgb(62, 62, 63);
+    float: left;
+    border: 2px solid rgb(24, 24, 25);
+      margin-right: 3px;
+      color: white;
+      text-align: center;
+      margin-top: 2px;
+      padding-top: 30px;
+      box-sizing: border-box;
+}
+
+.box5,.box11,.box17,.box23,.box29,.box35,.box41{
+ height:73px;
+    width:17%;
+    background-color:rgb(73, 74, 75);
+    float: left;
+     border: 2px solid rgb(25, 25, 27);
+       margin-right: 1px;
+        margin-top: 2px;
+         color: white;
+      text-align: center;
+       padding-top: 10px;
+       box-sizing: border-box;
+       padding-top: 30px;
+}
+
+.box6,.box12,.box18,.box24,.box30,.box36,.box42{
+ height:73px;
+    width:17%;
+    background-color: rgb(73, 74, 75);
+    float: left;
+     border: 2px solid  rgb(25, 25, 27);
+       margin-right: 1px;
+        margin-top: 2px;
+         color: white;
+      text-align: center;
+       padding-top: 10px;
+       box-sizing: border-box;
+       padding-top: 30px;
+}
+.box7,.box13,.box19,.box25,.box31,.box37,.box43{
+ height:73px;
+    width:17%;
+    background-color: rgb(73, 74, 75);
+    float: left;
+     border: 2px solid  rgb(25, 25, 27);
+       margin-right: 1px;
+        margin-top: 2px;
+         color: white;
+      text-align: center;
+       padding-top: 10px;
+       box-sizing: border-box;
+       padding-top: 30px;
+}
+.box8,.box14,.box20,.box26,.box32,.box38,.box44{
+ height:73px;
+    width:17%;
+    background-color: rgb(73, 74, 75);
+    float: left;
+     border: 2px solid  rgb(25, 25, 27);
+       margin-right: 1px;
+        margin-top: 2px;
+         color: white;
+      text-align: center;
+       padding-top: 10px;
+       box-sizing: border-box;
+       padding-top: 30px;
+}
+.box9,.box15,.box21,.box27,.box33,.box39,.box45{
+ height:73px;
+    width:17%;
+    background-color: rgb(73, 74, 75);
+    float: right;
+     border: 2px solid  rgb(25, 25, 27);
+      margin-top: 2px;
+       color: white;
+      text-align: center;
+       padding-top: 10px;
+       box-sizing: border-box;
+       padding-top: 30px;
+}
+/* sunday ends */
+ 
